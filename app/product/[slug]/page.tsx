@@ -123,7 +123,7 @@ export default async function ProductPage({ params }: PageProps) {
         productName={product.name}
         price={product.price}
         imageUrl={product.images[0]}
-        productPageUrl={`https://lushandleaves.com/product/${product.slug}`}
+        productPageUrl={`https://lushandleaves.vercel.app/product/${product.slug}`}
         category={categoryName}
       />
     </>
