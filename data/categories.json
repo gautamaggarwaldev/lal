@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cat-1",
+    "slug": "artificial-flowers",
+    "name": "Artificial Flowers",
+    "description": "Exquisitely crafted faux flowers that capture the beauty of nature, designed to bring timeless elegance to every room.",
+    "image": "https://images.unsplash.com/photo-1487530811176-3780de880c2d?w=800&q=80&auto=format&fit=crop",
+    "productCount": 8
+  },
+  {
+    "id": "cat-2",
+    "slug": "artificial-plants-greens",
+    "name": "Artificial Plants & Greens",
+    "description": "Lush, lifelike greenery that transforms your space into an evergreen sanctuary — zero maintenance, endless charm.",
+    "image": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&q=80&auto=format&fit=crop",
+    "productCount": 8
+  },
+  {
+    "id": "cat-3",
+    "slug": "vases-planters",
+    "name": "Vases & Planters",
+    "description": "Handpicked vessels in ceramic, glass, and metal — the perfect complement to our premium artificial arrangements.",
+    "image": "https://images.unsplash.com/photo-1612198188483-e5ee15af3e5a?w=800&q=80&auto=format&fit=crop",
+    "productCount": 8
+  },
+  {
+    "id": "cat-4",
+    "slug": "wall-decor",
+    "name": "Wall Decor",
+    "description": "Botanical-inspired wall art, wreaths, and hangings that add a touch of nature's grace to your walls.",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&q=80&auto=format&fit=crop",
+    "productCount": 8
+  },
+  {
+    "id": "cat-5",
+    "slug": "table-centerpieces",
+    "name": "Table Centerpieces",
+    "description": "Show-stopping arrangements designed to elevate dining tables, consoles, and entryways with effortless luxury.",
+    "image": "https://images.unsplash.com/photo-1563241527-3004b7be0ffd?w=800&q=80&auto=format&fit=crop",
+    "productCount": 8
+  },
+  {
+    "id": "cat-6",
+    "slug": "festive-seasonal-decor",
+    "name": "Festive & Seasonal Decor",
+    "description": "Celebrate every occasion with our curated festive collections — from Diwali to Christmas and beyond.",
+    "image": "https://images.unsplash.com/photo-1512389142860-9c449e58a814?w=800&q=80&auto=format&fit=crop",
+    "productCount": 8
+  }
+]
